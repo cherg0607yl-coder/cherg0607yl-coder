@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 :D
 
 <!--
 **cherg0607yl-coder/cherg0607yl-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
