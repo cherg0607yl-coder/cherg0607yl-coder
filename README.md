@@ -1,4 +1,12 @@
-## Hi there 👋 :D
+## Hi, I'm Yutian! 🌱
+
+I'm an undergraduate at UNC–Chapel Hill studying Computer Science and Data Science, with a minor in Sociology.
+
+I'm still figuring out exactly where I want to go with tech — and I think that's part of the fun. :) Right now, I'm especially curious about AI/ML, human-centered computing, and the ways technology interacts with people and society. I'm particularly interested in exploring how AI/ML can connect with the social sciences, especially in areas like public policy, healthcare, and the nonprofit sector.
+
+I've had the chance to explore some of these intersections through my projects so far, and I'm always excited to learn more and try something new. Feel free to look around and check out some of the things I've been working on!
+
+Always looking forward to learning and connecting!
 
 <!--
 **cherg0607yl-coder/cherg0607yl-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
